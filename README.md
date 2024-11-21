@@ -1,4 +1,4 @@
-# Bot Pengelola IP Proxy Cloudflare
+# Bot IP Proxy Cloudflare
 Bot ini dirancang untuk memverifikasi dan mengelola status IP proxy yang digunakan oleh Cloudflare. Dengan bot ini, pengguna dapat dengan mudah memeriksa apakah proxy aktif atau tidak dan memilih opsi koneksi yang sesuai, seperti menggunakan protokol Vless atau Trojan untuk koneksi yang aman.
 
 **Fitur Utama:**
